@@ -28,3 +28,13 @@ div {
     border: solid white 3px;
     width: 400px;
 }
+
+footer {
+    background-color: black;
+
+}
+
+li {
+    color: orangered;
+    list-style: none;
+}
